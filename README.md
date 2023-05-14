@@ -4,6 +4,13 @@ Responsive Weather application. Search cities and shows basic data to user.
 https://weatherapp-fwaa.onrender.com
 
 # Install
+-body-parser
+-dotenv
+-express
+-hbs
+-request
+-nodemon
+-some weather provider
 
 
 # Start demo site
@@ -12,11 +19,4 @@ npm run dev
 
 localhost:4000
 
-# Plugins I used in this project
 
-*body-parser
-*dotenv
-*express
-*hbs
-*request
-*nodemon
