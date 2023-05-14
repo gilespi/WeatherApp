@@ -4,10 +4,11 @@ Responsive Weather application. Search cities and shows basic data to user.
 https://weatherapp-fwaa.onrender.com
 
 # Install
-npm start
-npm run dev
+
 
 # Start demo site
+npm start
+npm run dev
 
 localhost:4000
 
