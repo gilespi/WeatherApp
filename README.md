@@ -1,7 +1,7 @@
 # WeatherApp
 Responsive Weather application. Search cities and shoes many data to user.
 
-https://weatherapp-fwaa.onrender.com/)
+https://weatherapp-fwaa.onrender.com
 
 # Install
 npm start
