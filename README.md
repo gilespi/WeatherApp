@@ -15,6 +15,7 @@ https://weatherapp-fwaa.onrender.com
 
 # Start demo site
 *npm start
+
 *npm run dev
 
 localhost:4000
