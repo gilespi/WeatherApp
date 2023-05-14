@@ -1,5 +1,5 @@
 # WeatherApp
-Responsive Weather application. Search cities and shoes many data to user.
+Responsive Weather application. Search cities and shows basic data to user.
 
 https://weatherapp-fwaa.onrender.com
 
